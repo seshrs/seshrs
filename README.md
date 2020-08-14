@@ -1,5 +1,6 @@
 ### Hi! My name is Sesh Sadasivam.
 
+<div style="display: block">
 <a href="https://www.facebook.com/seshrs">
   <img align="left" alt="Sesh Sadasivam | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -11,6 +12,7 @@
 <a href="mailto:sesh.sadasivam@gmail.com?subject=Hello!">
   <img align="left" alt="Sesh Sadasivam | Email | sesh.sadasivam@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/font-awesome-svg-icons@0.1.0/svg/envelope.svg" />
 </a>
+</div>
 
 <br>
 
