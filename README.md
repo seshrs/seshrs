@@ -21,7 +21,7 @@ I'm a software engineer at Facebook and I love all kinds of front-end developmen
 - 📣 How to pronounce my name:
   - [IPA](https://www.internationalphoneticassociation.org/IPAcharts/inter_chart_2018/IPA_2018.html): **seɪːʃ səˈðɑsɪvəm**
   - SAY-sh suh-DAH-si-vuhm
-- 📫 How to reach me: [sesh.sadasivam@gmail.com](mailto:sesh.sadasivam@gmail.com?subject=Hello!)
+- 📫 How to reach me: [sesh@sesh.rs](mailto:sesh@sesh.rs?subject=Hello!)
 
 <!--
 **seshrs/seshrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
